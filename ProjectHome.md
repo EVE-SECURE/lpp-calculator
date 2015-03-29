@@ -1,0 +1,1 @@
+EVE Online Loyality Points Profit Calculator
